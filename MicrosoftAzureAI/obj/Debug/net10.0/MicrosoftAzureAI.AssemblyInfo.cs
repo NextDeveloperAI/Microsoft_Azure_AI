@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MicrosoftAzureAI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13e5fe46fe2cf1b63e16380567e3601b4e0ef897")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+068838a011ab05b3fa4bbe9313c6914702ef8491")]
 [assembly: System.Reflection.AssemblyProductAttribute("MicrosoftAzureAI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MicrosoftAzureAI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
